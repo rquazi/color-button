@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with React Testing Library and Jest Test Runner
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This is a initial project to practise basics of React Testing Library anf Jest. 
 
 ## Available Scripts
 
